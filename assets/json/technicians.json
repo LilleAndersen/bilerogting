@@ -2,28 +2,28 @@
     {
         "id" : 0,
         "name": "Henrik",
-        "purpose" : "Emotional support & vibes",
+        "purpose" : "Making 'your mom' jokes on every possible occation",
         "image" : "/assets/images/henrik.jpg",
         "github": "https://github.com/e-hennep/"
     },
     {
         "id" : 1,
         "name": "Andreas",
-        "purpose" : "Content manager",
+        "purpose" : "High on smoking oxygen, carbon dioxide and a tiny bit off weed",
         "image" : "/assets/images/andreas.jpg",
         "github": "https://github.com/mrcat77/"
     },
     {
         "id" : 2,
         "name": "Samuel",
-        "purpose" : "Lead Programmer",
+        "purpose" : "Psycopathic tendencies and aggressiveness",
         "image" : "/assets/images/samuel.jpg",
         "github": "https://github.com/soni801/"
     },
     {
         "id" : 3,
         "name": "Tobias",
-        "purpose" : "Senior Programmer",
+        "purpose" : "Horny 24/7, should go to horny jail",
         "image" : "/assets/images/tobias.jpg",
         "github": "https://github.com/lilleandersen/"
     }
