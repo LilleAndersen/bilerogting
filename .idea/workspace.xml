@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b49739a9-b531-424a-b5e1-2a739cba94a2" name="Changes" comment="fikset project cards,">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <list id="a247546b-254f-4c4f-b514-8723cd4bb808" name="Changes by Heinz" comment="" />
-    <list id="cb715979-aa6e-4519-9591-93bf6f59bbed" name="Changes by notth" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/json/technicians.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/technicians.json" afterDir="false" />
-    </list>
-    <list id="7791c67a-2093-4a9a-9569-7e7bf9979597" name="Changes by Soni" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/json/faq.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/faq.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/json/technicians.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/technicians.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sections/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sections/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="b49739a9-b531-424a-b5e1-2a739cba94a2" name="Changes" comment="fikset project cards," />
+    <list id="cb715979-aa6e-4519-9591-93bf6f59bbed" name="Changes by notth" comment="" />
+    <list id="7791c67a-2093-4a9a-9569-7e7bf9979597" name="Changes by Soni" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,16 +14,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/assets/json/technicians.json">
-      <ranges>
-        <range start1="4" end1="5" start2="4" end2="5" changelist="7791c67a-2093-4a9a-9569-7e7bf9979597" />
-        <range start1="11" end1="12" start2="11" end2="12" changelist="cb715979-aa6e-4519-9591-93bf6f59bbed" />
-        <range start1="18" end1="19" start2="18" end2="19" changelist="cb715979-aa6e-4519-9591-93bf6f59bbed" />
-        <range start1="25" end1="26" start2="25" end2="26" changelist="cb715979-aa6e-4519-9591-93bf6f59bbed" />
-      </ranges>
-    </file>
   </component>
   <component name="ProjectId" id="1yu88sUQvCRkP83y5MqS6DEc4Oi" />
   <component name="ProjectLevelVcsManager">
@@ -63,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633089959364</updated>
       <workItem from="1633089962002" duration="2091000" />
-      <workItem from="1634549443326" duration="2108000" />
+      <workItem from="1634549443326" duration="2235000" />
     </task>
     <task id="LOCAL-00001" summary="fikset project cards,">
       <created>1633093180682</created>
