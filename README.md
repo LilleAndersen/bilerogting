@@ -2,7 +2,7 @@
 
 ---
 
-Source code for TempleOS Biler og tin
+Source code for TempleOS Biler og ting
 
 ### Technicians
 
