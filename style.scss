@@ -1,0 +1,355 @@
+/* STYLESHEET TABLE OF CONTENTS
+    1 Setup
+        1.1 Variables
+        1.2 Fonts
+        1.3 General styling
+    2 Reusable sections
+        2.1 Header
+    3 Page specific styling
+        3.1 Main page
+            3.1.1 Info cards
+                3.1.1.1 Technician card
+                3.1.1.2 Projects card
+        3.2 FAQ page
+            3.2.1 Questions
+        3.3 Guides page
+            3.3.1 Side bar
+            3.3.2 Guide content
+    4 Individual elements
+        4.1 Dividers
+ */
+
+//====================================
+// 1 Setup
+//====================================
+
+// 1.1 Variables
+$light: #f7eade;
+$accent-light: #a69cac;
+$accent: #474973;
+$accent-dark: #161b33;
+$dark: #0d0c1d; // Deep navy blue
+
+$card-width: 15em;
+
+// 1.2 Fonts
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
+
+// 1.3 General styling
+body
+{
+    background: $dark;
+    color: $light;
+    margin: 0;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+//====================================
+// 2 Reusable sections
+//====================================
+
+// 2.1 Header
+#header
+{
+    display: flex;
+    justify-content: space-around;
+    background: $accent-dark;
+    padding: 1rem;
+    align-items: center;
+
+    h1
+    {
+        font-weight: 900;
+    }
+
+    a
+    {
+        position: relative;
+        text-align: center;
+        justify-content: center;
+        color: $light;
+        text-decoration: none;
+        font-size: 22px;
+
+        &:not(.no-line)::after // Underline styling
+        {
+            position: absolute;
+            content: "";
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            height: 3px;
+            background: $accent;
+            border-radius: 1rem;
+            transform: scaleX(0);
+            transition: 200ms ease;
+        }
+
+        &:hover:not(.no-line)::after
+        {
+            transform: unset; // Set underline visible on hover
+        }
+    }
+}
+
+#left
+{
+    align-content: flex-start;
+}
+
+//====================================
+// 3 Page specific styling
+//====================================
+
+// 3.1 Main page
+#content
+{
+    padding: 5rem 0;
+    text-align: center;
+
+    > *
+    {
+        margin: 0 auto;
+        max-width: 60ch;
+    }
+
+    // TODO: Organise this type of link styling better
+    p > a
+    {
+        color: $accent;
+    }
+}
+
+// 3.1.1 Info cards
+
+//3.1.1.1 Technician cards
+#our-technicians
+{
+    max-width: 80rem;
+
+    #technician-cards
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+
+        .item-flex
+        {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding-bottom: 1em;
+            width: $card-width;
+            text-align: center;
+            border-radius: 5%;
+            background: $accent;
+            margin: 2em;
+        }
+
+        .person-img
+        {
+            width: $card-width;
+            aspect-ratio: 1;
+            padding-bottom: 1em;
+            user-select: none;
+            border-radius: 5%;
+        }
+
+        #github-link
+        {
+            text-decoration: underline;
+            color: $light;
+        }
+    }
+}
+
+// 3.1.1.2
+// 3.1.1 Technician cards
+
+#our-projects
+{
+    max-width: 80rem;
+
+    #project-cards
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+
+        .item-flex
+        {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding-bottom: 1em;
+            width: $card-width;
+            text-align: center;
+            border-radius: 5%;
+            background: $accent;
+            margin: 2em;
+        }
+
+        .project-img
+        {
+            width: $card-width;
+            aspect-ratio: 1;
+            padding-bottom: 1em;
+            user-select: none;
+            border-radius: 5%;
+        }
+
+        #link
+        {
+            text-decoration: underline;
+            color: $light;
+        }
+    }
+}
+
+// 3.2.1 Questions
+#questions
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+    padding: 5rem;
+    text-align: center;
+
+    h3
+    {
+        position: relative; // Relative makes the shadow on top of the next element
+        background: $accent;
+        padding: 1rem;
+        margin: 0 auto;
+        opacity: 0;
+        max-width: max-content;
+        border-radius: .5rem;
+        box-shadow: $dark 0 0 2rem;
+        user-select: none;
+        cursor: pointer;
+        transition: 300ms ease;
+
+        &::before
+        {
+            content: "Q: ";
+            font-weight: 100;
+            color: $accent-light;
+            font-size: 1.5rem;
+        }
+    }
+
+    p
+    {
+        position: relative;
+        background: $accent-dark;
+        padding: 1rem;
+        margin: 0 auto;
+        width: max-content; // Makes the background not extend more than the text
+        z-index: -1;
+        opacity: 0;
+        border-radius: 0 0 1rem 1rem;
+        transform: translateY(-100%);
+        transition: 300ms ease;
+
+        &::before
+        {
+            content: "A: ";
+            font-weight: 100;
+            color: $accent;
+            font-size: 1.5rem;
+        }
+    }
+
+    a
+    {
+        color: $accent;
+    }
+}
+
+#guides
+{
+    display: flex;
+
+    // 3.3.1 Side bar
+    #side-bar
+    {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        background: $accent-dark;
+        border-top: 3px solid $accent;
+        padding: 2rem;
+
+        .hide
+        {
+            display: none;
+        }
+
+        a
+        {
+            text-decoration: none;
+            color: $light;
+            font-weight: 700;
+
+            &:hover
+            {
+                text-decoration: underline;
+            }
+
+            &:active
+            {
+                color: $accent-light;
+            }
+        }
+    }
+
+    // 3.3.2 Guide content
+    #guide-content
+    {
+        max-width: 70ch;
+        margin: 0 auto;
+
+        h1
+        {
+            font-size: 3rem;
+            border-bottom: 2px solid $accent;
+            width: max-content;
+        }
+    }
+}
+
+// 3.3.2 Guide content
+#guide-content
+{
+    margin: 25px 0 0 50px;
+
+    div
+    {
+    margin-bottom: 2.5rem;
+    }
+
+    h3
+    {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    }
+
+    a
+    {
+        color: $accent;
+    }
+}
+
+//====================================
+// 4 Individual elements
+//====================================
+
+// 4.1 Dividers
+hr
+{
+    margin: 2rem auto !important;
+    width: 20ch;
+    border: none;
+    border-top: 1px solid $light;
+}

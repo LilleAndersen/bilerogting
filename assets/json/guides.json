@@ -1,0 +1,74 @@
+[
+  {
+    "id": "github-desktop",
+    "category": "Utilities",
+    "title": "Guide to GitHub Desktop",
+    "url": "path/to/html"
+  },
+  {
+    "id": "sass",
+    "category": "Languages",
+    "title": "Intro to SASS & SCSS",
+    "url": "path/to/html"
+  },
+  {
+    "id": "intellij",
+    "category": "Utilities",
+    "title": "Download and use the IntelliJ IDE",
+    "url": "path/to/html"
+  },
+  {
+    "id": "center-elements",
+    "category": "Styling",
+    "title": "Different ways of centering elements",
+    "url": "path/to/html"
+  },
+  {
+    "id": "json",
+    "category": "Languages",
+    "title": "Intro to JSON",
+    "url": "path/to/html"
+  },
+  {
+    "id": "link-preview",
+    "category": "HTML",
+    "title": "Create a link preview for your website",
+    "url": "path/to/html"
+  },
+  {
+    "id": "favicon",
+    "category": "HTML",
+    "title": "Create a tab icon for your website (favicon)",
+    "url": "path/to/html"
+  },
+  {
+    "id": "devtools",
+    "category": "Utilities",
+    "title": "Using DevTools efficiently",
+    "url": "path/to/html"
+  },
+  {
+    "id": "media-queries",
+    "category": "Styling",
+    "title": "Adding mobile support",
+    "url": "path/to/html"
+  },
+  {
+    "id": "domain",
+    "category": "Hosting",
+    "title": "Setting a custom domain",
+    "url": "path/to/html"
+  },
+  {
+    "id": "remove-html",
+    "category": "HTML",
+    "title": "Remove the .html extension in your URL",
+    "url": "path/to/html"
+  },
+  {
+    "id": "hosting",
+    "category": "Hosting",
+    "title": "Hosting your website",
+    "url": "path/to/html"
+  }
+]

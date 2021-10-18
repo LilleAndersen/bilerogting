@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 0,
+        "name": "Henrik",
+        "purpose" : "Emotional support & vibes",
+        "image" : "/assets/images/henrik.jpg",
+        "github": "https://github.com/e-hennep/"
+    },
+    {
+        "id" : 1,
+        "name": "Andreas",
+        "purpose" : "Content manager",
+        "image" : "/assets/images/andreas.jpg",
+        "github": "https://github.com/mrcat77/"
+    },
+    {
+        "id" : 2,
+        "name": "Samuel",
+        "purpose" : "Lead Programmer",
+        "image" : "/assets/images/samuel.jpg",
+        "github": "https://github.com/soni801/"
+    },
+    {
+        "id" : 3,
+        "name": "Tobias",
+        "purpose" : "Senior Programmer",
+        "image" : "/assets/images/tobias.jpg",
+        "github": "https://github.com/lilleandersen/"
+    }
+]
