@@ -1,8 +1,8 @@
-# TempleOS Help Desk
+# TempleOS Biler og ting Project
 
 ---
 
-Source code for TempleOS Help Desk
+Source code for TempleOS Biler og tin
 
 ### Technicians
 
@@ -15,8 +15,6 @@ Source code for TempleOS Help Desk
 
 ### Helpdesk assets
 
-- [Helpdesk Portal](https://templeos.on.spiceworks.com/portal)
-- [Faq and user guides](https://help.yessness.com/)
 
 ---
 
