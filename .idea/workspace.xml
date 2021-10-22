@@ -3,9 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="b49739a9-b531-424a-b5e1-2a739cba94a2" name="Changes" comment="fikset project cards,">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/json/faq.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/faq.json" afterDir="false" />
     </list>
-    <list id="cb715979-aa6e-4519-9591-93bf6f59bbed" name="Changes by notth" comment="" />
-    <list id="7791c67a-2093-4a9a-9569-7e7bf9979597" name="Changes by Soni" comment="" />
+    <list id="e13af4df-43f5-4bfb-9914-77f4f0ed7d34" name="Changes by Heinz" comment="">
+      <change beforePath="$PROJECT_DIR$/faq/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guides/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/guides/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <list id="7791c67a-2093-4a9a-9569-7e7bf9979597" name="Changes by Soni" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/sections/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sections/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +24,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/index.html">
+      <ranges>
+        <range start1="18" end1="19" start2="18" end2="19" changelist="e13af4df-43f5-4bfb-9914-77f4f0ed7d34" />
+        <range start1="29" end1="31" start2="29" end2="31" changelist="7791c67a-2093-4a9a-9569-7e7bf9979597" />
+      </ranges>
+    </file>
   </component>
   <component name="ProjectId" id="1yu88sUQvCRkP83y5MqS6DEc4Oi" />
   <component name="ProjectLevelVcsManager">
@@ -46,7 +62,9 @@
       <updated>1633089959364</updated>
       <workItem from="1633089962002" duration="2091000" />
       <workItem from="1634549443326" duration="2235000" />
-      <workItem from="1634556957810" duration="865000" />
+      <workItem from="1634556957810" duration="1675000" />
+      <workItem from="1634714262555" duration="46000" />
+      <workItem from="1634811413507" duration="6865000" />
     </task>
     <task id="LOCAL-00001" summary="fikset project cards,">
       <created>1633093180682</created>

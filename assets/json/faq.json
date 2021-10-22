@@ -1,6 +1,70 @@
 [
     {
-        "question": "følger vi moren din sin sånn derre gdpr ting",
-        "answer": "nei, fuck you"
+        "question": "Hvordan følger BoTAS(s) GDPR?",
+        "answer": "BoTAS(s) behandler personopplysninger som personnummer, adresse, epost adresse og betalings informasjon. Denne informasjonen er sikret"
+    },
+    {
+        "question": "Hvordan følger BoTAS(s) HMS?",
+        "answer": "Hos BoTAS(s) tar vi vare på våre ansatte, med å holdet et bra arbeids miljø og gjøre extra utstyr enkelt tilgjengeligt for alle som trenger det. For å sørge for at alle har det bra på arbeidsplassen, så har bygget tilstrekkelig med plass, klimaregulering og ergonomiske arbeidsarealer"
+    },
+    {
+        "question": "Hvordan følger BoTAS(s) norske lover og regler?",
+        "answer": "i dont think we will find an answer to this - me!- SONI (system operator for northern ireland)"
+    },
+    {
+        "question": "Hvordan følger BoTAS(s) arbeidsmiljøloven? MAYBE REMOVE THIS",
+        "answer": "i assume soni will not take this aka littel take this"
+    },
+    {
+        "question": "Hvor lang tid tar det før man får bilen sin etter kjøp?",
+        "answer": "Om vi har bilen på lager tar det mellom 5-8 virkedager. Om ikke tar det mellom 4-8 arbeidsuker"
+    },
+    {
+        "question": "Hva er garantien på nye biler?",
+        "answer": "Garantien er vanligvis 5 år på nye biler. Hvis vi misliker deg er det 5-8 virkedager."
+    },
+    {
+        "question": "Hvilke merker selger dere?",
+        "answer": "Vi har et stort utvalg av Volvo-biler. Vi er opptatt av det beste i bransjen og derfor kom vi til beslutningen å bare selge Volvo biler."
+    },
+    {
+        "question": "Hva selger dere utenom biler?",
+        "answer": "Vi selger alt fra bildeler, sokker i løsvekt og broer til hentai keycaps."
+    },
+    {
+        "question": "Hvordan kan jeg søke på jobb?",
+        "answer": "Søk på BOTAS med å gå til bilerogting.shop/søknad (wip). PS. å være likt av administrasjonen er viktigst av alt. I verste fall blir man henrettet."
+    },
+    {
+        "question": "Hvor kan jeg finne dere?",
+        "answer": "Vi ligger i det frie demokratiske republikken Internjetistan. 69 UwU st. 42069 Bergen."
+    },
+    {
+        "question": "Fikser dere biler (verksted) og ting?",
+        "answer": "Vi fikser desverre ikke verken biler eller ting ettersom vi bare er en forhandler."
+    },
+    {
+        "question": "Har dere nettbutikk?",
+        "answer": "Vi har desverre ikke en nettbutikk, man må desverre reise til butikken for å få tilgang til vårt fantastiske utvalg."
+    },
+    {
+        "question": "Har dere kundereservasjoner tilgjengelig på biler og ting.?",
+        "answer": "Man har muligheten til og reservere ting men desverre ikke biler."
+    },
+    {
+        "question": "Er det åpent kjøp på biler og ting?",
+        "answer": "På ting er det 69 dager åpent kjøp mens på biler er det åpent kjøp mellom 5-1000 virkedager ut ifra kjøpsmann beslutning."
+    },
+    {
+        "question": "Tillater dere prøveturer med våre nye biler?",
+        "answer": "Absolutt, vi er veldig viktig av kundene våres får tilstrekkelig testing av kjøretøyene de har lyst på. PS. Om man søler eller skitner til bilen blir det en bot på 300.000 kr."
+    },
+    {
+        "question": "Hva selger dere utenom biler?",
+        "answer": "Vi selger alt fra bildeler, sokker i løsvekt og broer til hentai keycaps."
+    },
+    {
+        "question": "Hvordan følger BoTAS(s) arbeidsmiljøloven? MAYBE REMOVE THIS (you wrote this wrong, i fixed it - soni(system operator for northern ireland))",
+        "answer": "i assume soni will not take this aka littel take this"
     }
 ]
