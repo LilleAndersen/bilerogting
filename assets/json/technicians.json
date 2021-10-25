@@ -2,28 +2,28 @@
     {
         "id" : 0,
         "name": "Henrik",
-        "purpose" : "Making scarily close to illegal jokes on every possible occation",
+        "purpose" : "Sørger for at bilene blir 'testet' før de leveres til kunden",
         "image" : "/assets/images/henrik.jpg",
         "github": "https://github.com/e-hennep/"
     },
     {
         "id" : 1,
         "name": "Andreas",
-        "purpose" : "High on smoking oxygen, carbon dioxide and a tiny bit of weed.",
+        "purpose" : "Høy på oksygen, karbon dioksid og en liten dose methamfetamin",
         "image" : "/assets/images/andreas.jpg",
         "github": "https://github.com/mrcat77/"
     },
     {
         "id" : 2,
         "name": "Samuel",
-        "purpose" : "Psycopathic tendencies and aggressiveness",
+        "purpose" : "Psykopatiske tendenser og sinnemestrings problemer",
         "image" : "/assets/images/samuel.jpg",
         "github": "https://github.com/soni801/"
     },
     {
         "id" : 3,
         "name": "Tobias",
-        "purpose" : "Horny 24/7, should go to horny jail",
+        "purpose" : "Har en stor samling på japansk produsert 'underholdning'",
         "image" : "/assets/images/tobias.jpg",
         "github": "https://github.com/lilleandersen/"
     }

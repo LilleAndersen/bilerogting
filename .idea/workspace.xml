@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b49739a9-b531-424a-b5e1-2a739cba94a2" name="Changes" comment="fikset project cards,">
+    <list default="true" id="310f8344-caab-4e2c-8735-c255a7f4e0ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bilerogting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/json/projects.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/projects.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/json/technicians.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/technicians.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+    </list>
+    <list id="5e3d0d93-5066-4897-8807-ed9a5a049898" name="Changes by notth" comment="">
       <change beforePath="$PROJECT_DIR$/assets/json/faq.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/faq.json" afterDir="false" />
     </list>
-    <list id="e13af4df-43f5-4bfb-9914-77f4f0ed7d34" name="Changes by Heinz" comment="">
-      <change beforePath="$PROJECT_DIR$/faq/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guides/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/guides/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
-    <list id="7791c67a-2093-4a9a-9569-7e7bf9979597" name="Changes by Soni" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/sections/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sections/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list id="9e8e7305-0488-4d77-8b03-a08ec4d37e22" name="Changes by tobia" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/json/faq.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/faq.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,58 +30,37 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/index.html">
+    <file path="$PROJECT_DIR$/assets/json/faq.json">
       <ranges>
-        <range start1="18" end1="19" start2="18" end2="19" changelist="e13af4df-43f5-4bfb-9914-77f4f0ed7d34" />
-        <range start1="29" end1="31" start2="29" end2="31" changelist="7791c67a-2093-4a9a-9569-7e7bf9979597" />
+        <range start1="68" end1="68" start2="68" end2="96" changelist="9e8e7305-0488-4d77-8b03-a08ec4d37e22" />
+        <range start1="70" end1="71" start2="98" end2="99" changelist="5e3d0d93-5066-4897-8807-ed9a5a049898" />
       </ranges>
     </file>
-  </component>
-  <component name="ProjectId" id="1yu88sUQvCRkP83y5MqS6DEc4Oi" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="io.unthrottled.amii.config.ui.PluginSettingsUI" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b49739a9-b531-424a-b5e1-2a739cba94a2" name="Changes" comment="" />
-      <created>1633089959364</created>
+      <changelist id="310f8344-caab-4e2c-8735-c255a7f4e0ca" name="Changes" comment="" />
+      <created>1635147161732</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1633089959364</updated>
-      <workItem from="1633089962002" duration="2091000" />
-      <workItem from="1634549443326" duration="2235000" />
-      <workItem from="1634556957810" duration="1675000" />
-      <workItem from="1634714262555" duration="46000" />
-      <workItem from="1634811413507" duration="6865000" />
+      <updated>1635147161732</updated>
+      <workItem from="1635147163698" duration="3141000" />
     </task>
-    <task id="LOCAL-00001" summary="fikset project cards,">
-      <created>1633093180682</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1633093180682</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,15 +76,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="fikset project cards," />
-    <option name="LAST_COMMIT_MESSAGE" value="fikset project cards," />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>

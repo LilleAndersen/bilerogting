@@ -2,14 +2,14 @@
 
   {
     "title":"TempleOS bot",
-    "desc": "We are making a discord bot for the helpdesk!",
+    "desc": "We are making a really cool discord bot for the class' helpdesk project!",
     "image":"/assets/images/templeos.png",
     "link":"https://github.com/soni801/temple-bot"
   },
 
   {
     "title":"This site",
-    "desc": "We are making a helpdesk site!",
+    "desc": "\nWe are making a helpdesk site!\n",
     "image":"/assets/favicon/favicon.png",
     "link":"https://github.com/LilleAndersen/help"
   },

@@ -7,9 +7,10 @@ fetch("/assets/json/technicians.json")
             document.querySelector("#technician-cards").innerHTML+=`
                 <div class="item-flex">
                     <img alt="imageload failed" class="person-img" src="${person.image}">
-                    <i>${person.name}</i>
+                    <b>${person.name}</b>
+                    <i style="font-size: smaller;">${person.purpose}</i>
                     <a id="github-link" href="${person.github}" target="_blank">GitHub</a>
-                    <small>${person.purpose}</small>
+                    
                 </div>
             `;
             console.log("Person " + `${person.name}, ${person.purpose}`);
