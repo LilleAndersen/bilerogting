@@ -9,11 +9,7 @@
     },
     {
         "question": "Hvordan følger BoTAS(s) norske lover og regler?",
-        "answer": "i dont think we will find an answer to this - me!- SONI (system operator for northern ireland)"
-    },
-    {
-        "question": "Hvordan følger BoTAS(s) arbeidsmiljøloven? MAYBE REMOVE THIS",
-        "answer": "i assume soni will not take this aka littel take this"
+        "answer": "Vi følger Norske lover og regler ved å la vær å bryte norske lover og regler"
     },
     {
         "question": "Hvor lang tid tar det før man får bilen sin etter kjøp?",
@@ -64,8 +60,8 @@
         "answer": "Vi selger alt fra bildeler, sokker i løsvekt og broer til hentai keycaps."
     },
     {
-        "question": "Hvordan følger BoTAS(s) arbeidsmiljøloven? MAYBE REMOVE THIS (you wrote this wrong, i fixed it - soni(system operator for northern ireland))",
-        "answer": "i assume soni will not take this aka littel take this"
+        "question": "Hvordan følger BoTAS(s) arbeidsmiljøloven?",
+        "answer": "Hos BoTAS(s) tar vi vare på våre ansatte, med å holdet et bra arbeids miljø og gjøre extra utstyr enkelt tilgjengeligt for alle som trenger det. For å sørge for at alle har det bra på arbeidsplassen, så har bygget tilstrekkelig med plass, klimaregulering og ergonomiske arbeidsarealer"
     },
     {
         "question": "Kommer dere til å åpne flere filialer?",
@@ -73,7 +69,7 @@
     },
     {
         "question": "Hva er BoTAS(s)?",
-        "answer": "Sjekket du ikke hjemmesiden din komplette Fiskebollekebab."
+        "answer": "Sjekket du ikke hjemmesiden? Spis en Fiskebollekebab."
     },
     {
         "question": "Selger dere brukte biler i tillegg til nye?",
@@ -93,6 +89,14 @@
     },
     {
         "question": "Hvilke betalingsmetoder tilbyr dere?",
-        "answer":"Vi tar imot slaver, bitcoin, belle Delphine onlyfans abonnement, sperm i løsvekt, DogeCoin, Kromer, Discoin, olje i milliliter, SchlattCoin, HermitCoin, blood i liter, Discord Nitro Gift, HentaiCoin, Cockies fra Cookie Clicker, Portal 2 Cosmetics og Pepsi Max."
+        "answer":"Vi tar imot slaver, bitcoin, Belle Delphine OnlyFans abonnement, sperm i løsvekt, Reddit karma, DogeCoin, Kromer, Discoin, olje i milliliter, SchlattCoin, HermitCoin, blood i liter, Discord Nitro Gift, HentaiCoin, Cockies fra Cookie Clicker, Portal 2 Cosmetics og Pepsi Max."
+    },
+    {
+        "question": "Selger dere kjeledyr (og dyr generelt sett)?",
+        "answer": "Vi selger desverre ikke dyr ettersom vi ikke har fasiliteter til og oppevare og vedlikeholde dyrene."
+    },
+    {
+        "question": "Hvor dyre er bilene deres?",
+        "answer": "Bilene ligger på mellom 150.000 til 3 millioner kroner u/ tilegg."
     }
 ]
