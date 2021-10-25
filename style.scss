@@ -229,6 +229,7 @@ body
         user-select: none;
         cursor: pointer;
         transition: 300ms ease;
+        min-width: 30ch;
 
         &::before
         {

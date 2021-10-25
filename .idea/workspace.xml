@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="310f8344-caab-4e2c-8735-c255a7f4e0ca" name="Changes" comment="did a thing">
+      <change beforePath="$PROJECT_DIR$/assets/json/faq.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/faq.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
     </list>
     <list id="5e3d0d93-5066-4897-8807-ed9a5a049898" name="Changes by notth" comment="" />
@@ -35,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635147161732</updated>
-      <workItem from="1635147163698" duration="3735000" />
+      <workItem from="1635147163698" duration="3764000" />
     </task>
     <task id="LOCAL-00001" summary="did a thing">
       <created>1635150872337</created>
@@ -44,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635150872338</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="did a thing">
+      <created>1635150931854</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635150931854</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
